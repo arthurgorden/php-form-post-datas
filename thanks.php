@@ -3,7 +3,7 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tanks for your message!</title>
+  <title>Thanks for your message!</title>
   <meta name="description" content="description" />
   <meta name="author" content="author" />
   <meta name="keywords" content="keywords" />
